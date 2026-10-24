@@ -1,3 +1,6 @@
 Hello git
 New feature added
+<<<<<<< HEAD
 Work in progress
+=======
+>>>>>>> feature-branch
